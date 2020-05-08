@@ -12,6 +12,8 @@ $ bash build.sh
 $ bash run.sh
 ```
 
+OR, equivalently:
+
 ```bash
 c++ -I /usr/local/boost_1_73_0 example.cpp -o example
 ```
